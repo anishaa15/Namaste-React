@@ -1,0 +1,18 @@
+#heading{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#parent{
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#child{
+    color:yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#child2{
+    color:brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
